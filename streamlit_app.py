@@ -1,4 +1,4 @@
-import streamlit as st
+upimport streamlit as st
 import threading, time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -65,7 +65,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 style="text-align:center;">E2EE SERVER</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;"> RUDRA KING E2EE SERVER</h1>', unsafe_allow_html=True)
 
 
 # ---------------- SESSION ----------------
